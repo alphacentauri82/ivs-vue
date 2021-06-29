@@ -1,6 +1,6 @@
 # hello-ivs
 
-This is a project created to test the integration of [Amazon IVS Player](https://docs.aws.amazon.com/ivs/latest/userguide/player.html) with the [Video.js](https://videojs.com/). Currently just loads a stream channel into the player, the _Playback URL_ must be placed in the `.env` file.
+This is a project created to test the integration of [Amazon IVS Player](https://docs.aws.amazon.com/ivs/latest/userguide/player.html) with [Video.js](https://videojs.com/). Currently loads a stream channel into the player, the _Playback URL_ must be placed in the `.env` file.
 
 ## Project setup
 
